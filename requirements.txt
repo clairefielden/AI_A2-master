@@ -1,0 +1,9 @@
+torch
+torchvision
+matplotlib
+kaggle
+numpy
+keras
+tensorflow
+opencv-python
+tensorflow
